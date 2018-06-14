@@ -1,0 +1,12 @@
+/*
+* 			This is a piece of test code
+*
+*						It does nothing
+*/
+
+public void Test1()
+{
+	intTest1 = 1
+	intTest2 = 2
+	println(intTest1 + intTest2)
+}
